@@ -4,8 +4,10 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/aedapp2/AEDapp2.java</file>
-            <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/facturas/Pagable.java</file>
+            <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/personas/EmpleadoAsalariado.java</file>
             <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/facturas/Factura.java</file>
+            <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/interfaces/Pagable.java</file>
+            <file>file:/C:/Users/2damb/Documents/NetBeansProject/AEDapp2/src/personas/Empleado.java</file>
         </group>
     </open-files>
 </project-private>
